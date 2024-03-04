@@ -1,0 +1,2 @@
+Proves de inserir text en arxiu de .txt
+segona prova
